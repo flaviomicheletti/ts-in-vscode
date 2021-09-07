@@ -1,9 +1,14 @@
 {
   "compilerOptions": {
+    // https://www.typescriptlang.org/tsconfig#target
     "target": "es5",
+    // https://www.typescriptlang.org/tsconfig#module    
     "module": "commonjs",
+    // https://www.typescriptlang.org/tsconfig#outDir
     "outDir": "out",
+    //
     "noImplicitAny": false,
+    // https://www.typescriptlang.org/tsconfig#sourceMap
     "sourceMap": true
   }
 }

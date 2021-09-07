@@ -16,7 +16,7 @@ Inicie o servidor
 
     node node_modules/http-server/bin/http-server
 
-Como já temos o vscode devidamente configurado, basta acinonar `F5`.
+Como já temos o vscode devidamente configurado, basta acionar `F5`.
 
 O Chrome deve abrir automaticamente.
 
